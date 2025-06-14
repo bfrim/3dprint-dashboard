@@ -24,12 +24,12 @@ The goal is to create a clean UI for monitoring and interacting with a 3D printe
 
 ## Running the Project
 
+**Install Flask**
 ```bash
-# 1. Install Flask
 pip install flask
+```
 
-# 2. Run the app
+**Run the app**
+```bash
 python app.py
-
-# 3. Open in your browser
-http://localhost:5000
+```

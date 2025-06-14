@@ -1,11 +1,11 @@
-# 🖥️ 3D Printer Dashboard
+# 3D Printer Dashboard
 
 A simple web-based dashboard built with **Flask** and styled using **Bootstrap 5**.  
 The goal is to create a clean UI for monitoring and interacting with a 3D printer.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Flask-powered web app
 - Responsive layout with Bootstrap
@@ -14,15 +14,15 @@ The goal is to create a clean UI for monitoring and interacting with a 3D printe
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
-- 🐍 Python 3.x
-- 🔥 Flask (lightweight backend framework)
-- 🎨 Bootstrap 5 (styling + layout)
+- Python 3.x
+- Flask (lightweight backend framework)
+- Bootstrap 5 (styling + layout)
 
 ---
 
-## 🛠️ Running the Project
+## Running the Project
 
 ```bash
 # 1. Install Flask

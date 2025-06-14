@@ -10,15 +10,15 @@ The goal is to create a clean UI for monitoring and interacting with a 3D printe
 - Flask-powered web app
 - Responsive layout with Bootstrap
 - Navigation between pages
-- Button-based actions (more coming soon!)
+- Button-based actions
 
 ---
 
 ## Tech Stack
 
-- Python 3.x
-- Flask (lightweight backend framework)
-- Bootstrap 5 (styling + layout)
+- Python 3
+- Flask
+- Bootstrap 5
 
 ---
 

@@ -1,7 +1,7 @@
 # 3D Printer Dashboard
 
 A simple web-based dashboard built with Flask and styled using Bootstrap 5.  
-The goal is to create a clean UI for monitoring and interacting with a 3D printer.
+The goal is to create a simple UI for monitoring and interacting with a 3D printer.
 
 ---
 

@@ -1,4 +1,4 @@
-# 3D Dash
+# 3D Dash **[WIP]**
 
 A basic web dashboard for 3D printing, built with Flask and Bootstrap.
 
